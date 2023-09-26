@@ -1,0 +1,1 @@
+<img src="{{asset('logo/Screenshot.png')}}" alt="" width="100px" height="100px" style="border-radius: 50%;">
